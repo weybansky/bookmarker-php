@@ -83,9 +83,9 @@
 						<label for="link">Link</label>
 						<input type="url" class="form-control" name="link">
 					</div>
-					<dic class="form-group">
+					<div class="form-group">
 						<button class="form-control btn btn-warning" name="submit" type="submit">Add to Bookmark</button>
-					</dic>
+					</div>
 				</form>
 			</div>
 			<div class="col-md-6 col-sm-6">
